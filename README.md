@@ -8,6 +8,7 @@
 
 ## Database Management System (DBMS)
 
-```a software system used to manage and manipulate data in a database.
+```
+a software system used to manage and manipulate data in a database.
 ```
 
